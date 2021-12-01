@@ -43,22 +43,28 @@ Server:
 
 
 Hardware Requirements 
-
-Processor	2.4 GHz Clock Speed
-RAM	1 GB
-Hard Disk	500 MB (Minimum Space)
-
+<ul>
+ <li>Processor	2.4 GHz Clock Speed</li>
+<li>RAM	1 GB</li>
+ <li>Hard Disk	500 MB (Minimum Space)</li>
+</ul
 
 
 Software Requirements
+<ul>
 
-Operating System Version	Windows 7 and Above
-Platform	Jupyter Notebook
-Backend	Python
-Special Tools	Socket, Threading, colorama,Playsound
-Server	Server
+ <li>Operating System Version	Windows 7 and Above</li>
+<li>Platform	Jupyter Notebook</li>
+ <li>Backend	Python</li>
+<li>Special Tools	Socket, Threading, colorama,Playsound
+ Server	Server</li>
+ 
+ </ul>
 
 
-#References:
-GeekforGeeks,W3schools,Python Documentation.
-
+References:
+<ul>
+ <li>GeekforGeeks</li>
+ <li>W3schools</li>
+ <li>Python Documentation.</li>
+</ul>
